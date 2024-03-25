@@ -9,5 +9,16 @@ Este projeto consiste no desenvolvimento web sobr eum buscador de cep;
 </p>
 
 
+# Deploy
+
+Confira o projeto : [Link do projeto ](https://busca-cep-steel.vercel.app)
+
+
+
+
+
+![Busca CEP](demo/busca-cep.gif)
+
+
 
 
