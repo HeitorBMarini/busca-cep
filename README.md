@@ -1,6 +1,6 @@
 # Projeto
 
-Este projeto consiste no desenvolvimento web sobr eum buscador de cep;
+Este projeto consiste no desenvolvimento web sobre um buscador por cep;
 
 ## Tecnologias utilizadas
 <br>
